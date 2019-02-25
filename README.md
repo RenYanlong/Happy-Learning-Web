@@ -7,3 +7,4 @@
 1.[var,let和count](https://github.com/RenYanlong/blog/blob/master/es6/1.var%2Clet和count.md)
 
 
+2.[解构赋值](https://github.com/RenYanlong/blog/blob/master/es6/解构赋值.md)
