@@ -6,7 +6,7 @@
 
 1.[块级作用域绑定](https://github.com/RenYanlong/blog/blob/master/es6/块级作用域绑定.md)
 
-2.[解构赋值](https://github.com/RenYanlong/blog/blob/master/es6/解构赋值.md)
-
-3.[字符串](https://github.com/RenYanlong/blog/blob/master/es6/字符串.md)
+2.[字符串](https://github.com/RenYanlong/blog/blob/master/es6/字符串.md)
+   
+3.[函数](https://github.com/RenYanlong/blog/blob/master/es6/函数.md)
 
