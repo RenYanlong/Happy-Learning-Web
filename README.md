@@ -10,3 +10,5 @@
    
 3.[函数](https://github.com/RenYanlong/blog/blob/master/es6/函数.md)
 
+4.[拓展对象的功能性](https://github.com/RenYanlong/blog/blob/master/es6/拓展对象的功能性.md)
+
