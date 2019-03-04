@@ -12,3 +12,5 @@
 
 4.[拓展对象的功能性](https://github.com/RenYanlong/blog/blob/master/es6/拓展对象的功能性.md)
 
+5.[解构](https://github.com/RenYanlong/blog/blob/master/es6/解构.md)
+
