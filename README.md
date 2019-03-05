@@ -1,6 +1,6 @@
 # 学习笔记
 
-最近会更新完整的es6学习笔记！挖坑vue.js和算法相关的方向。
+最近会更新完整的es6学习笔记！挖坑vue和css技巧相关的。
 
 ### es6:
 
@@ -12,5 +12,5 @@
 
 4.[拓展对象的功能性](https://github.com/RenYanlong/blog/blob/master/es6/拓展对象的功能性.md)
 
-5.[解构](https://github.com/RenYanlong/blog/blob/master/es6/解构.md)
+5.[解构](https://github.com/RenYanlong/blog/blob/master/es6/解构赋值.md)
 
