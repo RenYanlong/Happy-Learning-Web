@@ -14,3 +14,5 @@
 
 5.[解构](https://github.com/RenYanlong/blog/blob/master/es6/解构赋值.md)
 
+6.[Set和Map](https://github.com/RenYanlong/blog/blob/master/es6/Set和Map.md)
+
