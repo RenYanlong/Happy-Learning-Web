@@ -8,7 +8,7 @@ ES6已经在实际的开发过程中得到了应用，大幅的语法改动、�
 
 预计3月10日左右会更新完成！挖的新坑（vue和css动画相关）！
 
-* [x]  [块级作用域绑定](https://github.com/RenYanlong/blog/blob/master/es6/块级作用域绑定.md)
+* [x] [块级作用域绑定](https://github.com/RenYanlong/blog/blob/master/es6/块级作用域绑定.md)
 
 * [x] [字符串](https://github.com/RenYanlong/blog/blob/master/es6/字符串.md)
    
@@ -20,9 +20,9 @@ ES6已经在实际的开发过程中得到了应用，大幅的语法改动、�
 
 * [x] [Set和Map](https://github.com/RenYanlong/blog/blob/master/es6/Set和Map.md)
 
-* [ ] [ES6中的类]()
+* [x] [ES6中的类](https://github.com/RenYanlong/Learning-ES6/blob/master/es6/类.md)
 
-* [ ] [数组]()
+* [x] [数组](https://github.com/RenYanlong/Learning-ES6/blob/master/es6/数组.md)
 
 * [ ] [Promise]()
 
