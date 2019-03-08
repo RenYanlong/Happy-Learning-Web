@@ -18,6 +18,8 @@ ES6已经在实际的开发过程中得到了应用，大幅的语法改动、�
 
 * [x] [解构](https://github.com/RenYanlong/blog/blob/master/es6/解构赋值.md)
 
+* [x] [Symbol](https://github.com/RenYanlong/blog/blob/master/es6/Symbol.md)
+
 * [x] [Set和Map](https://github.com/RenYanlong/blog/blob/master/es6/Set和Map.md)
 
 * [x] [ES6中的类](https://github.com/RenYanlong/Learning-ES6/blob/master/es6/类.md)
