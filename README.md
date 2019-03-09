@@ -26,7 +26,7 @@ ES6已经在实际的开发过程中得到了应用，大幅的语法改动、�
 
 * [x] [数组](https://github.com/RenYanlong/Learning-ES6/blob/master/es6/数组.md)
 
-* [ ] [Promise]()
+* [x] [Promise](https://github.com/RenYanlong/Learning-ES6/blob/master/es6/Promise.md)
 
 * [ ] [代理Proxy和反射Reflection]()
 
