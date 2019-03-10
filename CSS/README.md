@@ -11,4 +11,4 @@ CSS的痛，我不懂，所以才需要感受一下！
 
 ### Less
 
-* [x] [Flex布局](https://github.com/RenYanlong/Happy-Learning-Web/blob/master/CSS/Less/Less.md)
+* [x] [Less](https://github.com/RenYanlong/Happy-Learning-Web/blob/master/CSS/Less/Less.md)
