@@ -6,7 +6,6 @@ ES6已经在实际的开发过程中得到了应用，大幅的语法改动、�
 
 感谢 [@Nicholas C. Zakas](https://github.com/nzakas) 著的《Understanding ECMASCRIPT 6》！让我对es6有更加深入的理解。
 
-预计3月10日左右会更新完成！挖的新坑（vue和css动画相关）！
 
 * [x] [块级作用域绑定](https://github.com/RenYanlong/blog/blob/master/es6/块级作用域绑定.md)
 
@@ -29,5 +28,3 @@ ES6已经在实际的开发过程中得到了应用，大幅的语法改动、�
 * [x] [Promise](https://github.com/RenYanlong/Learning-ES6/blob/master/es6/Promise.md)
 
 * [ ] [模块]()
-
-
