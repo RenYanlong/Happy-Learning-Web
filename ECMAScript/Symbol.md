@@ -14,7 +14,6 @@ console.log(a,a1);  //Symbol(),Symbol(a1)
 
 ```
 
-
 ### 使用方法
 
 使用可计算属性名的地方，都可以使用Symbol。

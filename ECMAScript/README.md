@@ -1,40 +1,14 @@
-# Learning ECMAScript
+# ES6解决了啥
 
-3月20日更新
-昨天我还经常的把ES5.1和ES6分别对待，总觉得它们有高有低，但是细细一想，就是一个玩应。所以从ES6教程转换为了ECMAScript教程。
-会有一些覆盖，希望可以以最新的语法为主。
+ES6的已经在实际的开发过程中得到了应用。而ES6中添加的语言特性解决了哪些问题？给我们在编程过程中带来了哪些便利？这都是一开始我们希望了解的。
 
--------
+而这个板块可以给你问题的答案！
 
-已经在实际的开发过程中得到了应用，大幅的语法改动、全新的对象和模式和扩充的新方法都让我们应该正视这一新的标准。而学习过程中紧紧看是无法给我们带来深入的理解的，因此希望可以在看过之后留下一些日后可以参考的抓手。
+总的来说，**ES6解决了之前标准中遗留下来的几个关键问题**。大幅的语法改动、全新的对象模式和扩充的新方法都致力于解决我们在现实开发过程中遇到的问题。
+
+在每个小章节中，可以通过ES6和之前标准的对比来展示差异性，这样可以更好的理解**标准制定的目的**和希望**解决的问题**。
 
 因为其中有自己的理解，如发现错误希望大家可以提出来，我会尽快更正！
 
-感谢 [@Nicholas C. Zakas](https://github.com/nzakas) 著的《Understanding ECMASCRIPT 6》！让我对es6有更加深入的理解。
-
-
-* [x] [块级作用域绑定](https://github.com/RenYanlong/blog/blob/master/es6/块级作用域绑定.md)
-
-* [x] [字符串](https://github.com/RenYanlong/blog/blob/master/es6/字符串.md)
-   
-* [x] [函数](https://github.com/RenYanlong/blog/blob/master/es6/函数.md)
-
-* [x] [拓展对象的功能性](https://github.com/RenYanlong/blog/blob/master/es6/拓展对象的功能性.md)
-
-* [x] [解构](https://github.com/RenYanlong/blog/blob/master/es6/解构赋值.md)
-
-* [x] [Symbol](https://github.com/RenYanlong/blog/blob/master/es6/Symbol.md)
-
-* [x] [Set和Map](https://github.com/RenYanlong/blog/blob/master/es6/Set和Map.md)
-
-* [x] [ES6中的类](https://github.com/RenYanlong/Learning-ES6/blob/master/es6/类.md)
-
-* [x] [数组](https://github.com/RenYanlong/Learning-ES6/blob/master/es6/数组.md)
-
-* [x] [Promise](https://github.com/RenYanlong/Learning-ES6/blob/master/es6/Promise.md)
-
-* [ ] [代理Proxy和反射Reflection]()
-
-* [ ] [模块]()
-
+* [x] ES6带来了块级作用域——**let**和**const**
 
