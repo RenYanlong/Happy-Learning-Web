@@ -57,4 +57,3 @@ ES6中也增添了几个属性用于识别子字符串，即使在ES5中有类�
 
 [模板字符串——MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/template_strings)
 [ES6 In Depth: Template strings](https://hacks.mozilla.org/2015/05/es6-in-depth-template-strings-2/)
-
