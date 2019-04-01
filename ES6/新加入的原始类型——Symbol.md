@@ -1,9 +1,9 @@
-# Symbol
+# 新加入的原始类型——Symbol
 
 ES6之前我们有5种原始类型：null、undefined、number、string、boolean、objert。而在
 ES6添加了第6种原始类型——Symbol。Symbol用于为属性添加非字符串名称。
 
-### 创建Symbol
+#### 创建Symbol
 
 通过全局函数Symbol创建一个Symbol，Symbol函数接受一个可选参数，用于描述即将创建的Symbol。
 
@@ -14,13 +14,9 @@ console.log(a,a1);  //Symbol(),Symbol(a1)
 
 ```
 
-### 使用方法
+#### Symbol共享体系
 
-使用可计算属性名的地方，都可以使用Symbol。
-
-### Symbol共享体系
-
-##### Symbol.for()
+###### Symbol.for()
 
 如果有多个不同的对象类型，但是希望可以使用同一个Symbol属性表示一个独特的标识符，这样我们应该创建一个共享的Symbol。
 
@@ -37,10 +33,9 @@ console.log(obj[num1]);  //123
 console.log(num1);   //Symbol(123);
 ```
 
-##### Symbol.keyFor()
+###### Symbol.keyFor()
 
 Symbol.keyFor()则索引与Symbol有关的key。
-
 
 ```
 let a = Symbol.for('a');
@@ -49,10 +44,9 @@ console.log(Symbol.keyFor(a)) // a
 console.log(Symbol.keyFor(b)) // b
 ```
 
+#### Symbol与类型转换
 
-### Symbol与类型转换
-
-js中基本类型是可以隐形转换的，而Symbol是不会进行隐性转换操作的。
+JavaScript中基本类型是可以隐形转换的，而Symbol是不会进行隐性转换操作的。
 
 ```
 let a = Symbol('123');
@@ -65,7 +59,7 @@ console.log(b); //'Symbol(123)'
 也不能将Symbol转换为数字类型，使用运算符也会产生错误。
 
 
-### 属性检索
+#### 属性检索
 
 在Symbol中我们需要通过新增加的方法检索属性，使用getOwnPropertySymbols()方法。
 
@@ -80,7 +74,13 @@ const symbolsKey = Object.getOwnPropertySymbols(obj);
     }
 ```
 
-### 总结
+#### 总结
+
+我们需要理解Symbol意义：
+1. Symbol创建的方式
+2. Symbol相关的方法
+
+
 
 
 
