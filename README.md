@@ -43,3 +43,14 @@
 
 ### JavaScript
 
+###### this、作用域和声明提升
+
+* [深入理解JS中声明提升、作用域（链）和`this`关键字](https://github.com/creeperyang/blog/issues/16)
+
+###### 闭包
+
+* [How do JavaScript closures work?](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
+
+###### 原型
+
+* [JavaScript深入之从原型到原型链](https://github.com/mqyqingfeng/Blog/issues/2)
