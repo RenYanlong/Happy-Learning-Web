@@ -47,6 +47,11 @@
 
 ### JavaScript
 
+###### 块级作用域
+
+* [let和const深入理解](https://juejin.im/post/59e6a86d518825422c0cbb6f#heading-1)
+* [ES6带来了块级作用域——let和const](https://github.com/RenYanlong/You-only-need-one/blob/master/ES6/ES6带来了块级作用域——let和const.md)
+
 ###### this、作用域和声明提升
 
 * [深入理解JS中声明提升、作用域（链）和`this`关键字](https://github.com/creeperyang/blog/issues/16)
@@ -59,11 +64,12 @@
 
 * [JavaScript深入之从原型到原型链](https://github.com/mqyqingfeng/Blog/issues/2)
 
+###### 数组
 
-### ES6
+* [Array--MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array#Syntax)
 
-* [let和const深入理解](https://juejin.im/post/59e6a86d518825422c0cbb6f#heading-1)
-* [ES6带来了块级作用域——let和const](https://github.com/RenYanlong/You-only-need-one/blob/master/ES6/ES6带来了块级作用域——let和const.md)
+
+
 
 
 
