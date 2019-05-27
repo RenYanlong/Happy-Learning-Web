@@ -45,7 +45,3 @@ function fun(){
 [const](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/const)
 [为什么选取let这个名字](https://stackoverflow.com/questions/37916940/why-was-the-name-let-chosen-for-block-scoped-variable-declarations-in-javascri)
 [let和const命令——阮一峰](http://es6.ruanyifeng.com/#docs/let)
-
-
-
-
