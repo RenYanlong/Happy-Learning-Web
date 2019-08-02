@@ -10,12 +10,7 @@
 
 1. **标准盒子模型**：width = concent
 
-    ![标准盒子模型](img/标准盒子模型.png)
-
-
 2. **IE盒子模型**：width = concent + padding + border
-
-    ![ie盒子模型](img/ie盒子模型.png)
 
 ## CSS框类型
 
