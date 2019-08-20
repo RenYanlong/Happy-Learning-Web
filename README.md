@@ -1,8 +1,8 @@
-### 介绍
+# 介绍
 
 算是知识总结吧。内容定位不希望太过于基础。基础的知识可以参考[MDN](https://developer.mozilla.org/zh-CN/docs/Web)，如今MDN汉化程度很高了，收藏MDN及其必要!
 
-### 推荐书籍
+## 推荐书籍
 
 JS相关：
 
