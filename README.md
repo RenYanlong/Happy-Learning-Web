@@ -1,24 +1,13 @@
-# 介绍
+# 博客
 
-算是知识总结吧。内容定位不希望太过于基础。基础的知识可以参考[MDN](https://developer.mozilla.org/zh-CN/docs/Web)，如今MDN汉化程度很高了，收藏MDN及其必要!
+懒得折腾，github用来交友最吼啦！
 
-## 推荐书籍
+以前写的还会保留下来，之前的内容更加面向基础，如今更加推荐[MDN](https://developer.mozilla.org/zh-CN/docs/Web)及相关框架官网，今后还是想分享一些有意思和深度的问题。
 
-JS相关：
+欢迎讨论各种问题！
 
-[《You-Dont-Know-JS》](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
+## 目录
 
-[《JavaScript高级程序设计（第3版）》](https://item.jd.com/10951037.html)
+蓄势待发～
 
-[《JavaScript语言精粹》](https://item.jd.com/11090963.html)
-
-[《高性能JavaScript》](https://item.jd.com/11755693.html)
-
-CSS相关：
-
-[《CSS权威指南（第四版）》](https://item.jd.com/12510935.html#crumb-wrap)
-
-
-
-
-
+没有社交账号，想社交的话就在这儿～
